@@ -1,6 +1,9 @@
 TREES - A NaCL-based Dovecot encryption plugin
 =======================================================
 
+This project is cloned originally from https://0xacab.org/riseuplabs/trees
+Thanks for David Goulet
+
 This plugin adds individually encrypted mail storage to the Dovecot IMAP
 server.
 
